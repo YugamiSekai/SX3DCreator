@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1468821961 source:c:\users\kaleb\downloads\hacking\nintendo\3ds\sx3dcreatordevblock\main.c
+	<stdio.h>
+	"SX3DCreator.h"
+
+1468823045 c:\users\kaleb\downloads\hacking\nintendo\3ds\sx3dcreatordevblock\sx3dcreator.h
+
+1468822476 source:c:\users\kaleb\downloads\hacking\nintendo\3ds\sx3dcreatordevblock\descriptions.c
+	<stdio.h>
+	"SX3DCreator.h"
+
+1468822819 source:c:\users\kaleb\downloads\hacking\nintendo\3ds\sx3dcreatordevblock\required.c
+	<stdio.h>
+	"SX3DCreator.h"
+
