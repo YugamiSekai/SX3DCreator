@@ -10,7 +10,7 @@ int main()
 	}while(openingChoice != 'r' && openingChoice != 'o' && openingChoice != 'e' && openingChoice != 'c' && openingChoice != 'a' && openingChoice != 'x');
 
 	// required.c
-	if(openingChoice == 'r') {
+	if(openingChoice == 'r'){
 	openFile();
 	speedOption();
 	trackInOutFlat();
@@ -40,7 +40,7 @@ int main()
     // descriptions.c
 	} else if(openingChoice == 'a'){
 		announcements();
-	}else{
+	} else{
 	return 0;
 	}
 }
