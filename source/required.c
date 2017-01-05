@@ -73,7 +73,7 @@ void obstacleSelect()
 	} else if(obstacle == 2) {
 		fprintf(fp, "obstacles: beams, ");
 	} else if(obstacle == 3) {
-		fprintf(fp, "obstacles: spiikes, ");
+		fprintf(fp, "obstacles: spikes, ");
 	} else if(obstacle == 4) {
 		fprintf(fp, "obstacles: rollers, ");
 	} else if(obstacle == 5) {
@@ -120,6 +120,6 @@ void generatorLevelDefine()
 
 	printf("\nDefining generator level...\n");
 	fprintf(fp, "%d\n", generatorLevel);
-	printf("Level complete!\n\n");
+	printf("Level complete! Returning to menu...\n\n");
 	main();
 }
