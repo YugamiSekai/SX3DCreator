@@ -15,8 +15,8 @@ void version()
 // The text shown in the changelog option
 void changelog()
 {
-    printf("\n-------------------------------------\n");
-    printf("V4 ----- Split Files\n");
+    	printf("\n-------------------------------------\n");
+    	printf("V4 ----- Split Files\n");
 	printf("\n-------------------------------------\n");
 	printf("V3 ----- Added Zones, Added Changelog, Added Edit File Feature, but still experimental,\nAdded Announcements\n");
 	printf("\n-------------------------------------\n");
