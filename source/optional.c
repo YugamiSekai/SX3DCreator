@@ -109,10 +109,10 @@ void bonusSelect()
 		}while(zoneScore < 500 || zoneScore > 2000);
 		printf("Defining zone scores...\n");
 		fprintf(fp, " %d", zoneScore);
-		printf("UNFINISHED AREA");
+		printf("UNFINISHED AREA. Returning to menu...");
 		main();
 		} else {
-			printf("UNFINISHED AREA");
+			printf("UNFINISHED AREA. Returning to menu...");
 			main();
 		}
 
